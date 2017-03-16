@@ -1,0 +1,25 @@
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.667023753747344
+  lightness: 0.5968006262555718
+  saturation: 0.24408725276589394
+  rhythmicContrast: 0.9191933132242411
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Sergio Luna
+layout_spectrum: 0.6026979286689311
+typography_spectrum: 0.6449031319934875
+content: []
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9231afa3-0fa7-4c7b-9487-a5d028140c75.jpg
